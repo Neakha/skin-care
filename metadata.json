@@ -1,0 +1,5 @@
+{
+  "name": "SkinScan AI",
+  "description": "AI-powered skin disease detection and medical guidance system.",
+  "requestFramePermissions": ["camera"]
+}
